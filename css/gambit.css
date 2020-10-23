@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+}
+header {
+    background-image: linear-gradient(to bottom right, #E22BFF,#54069A);
+    text-align: center;
+}
+header h1 {
+    color: white;
+    font-family: 'Staatliches', cursive;
+}
+header img{
+    border-radius: 500px;
+    width: 300px;
+    border: 5px solid hotpink;
+}
