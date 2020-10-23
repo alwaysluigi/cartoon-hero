@@ -21,6 +21,7 @@ header img{
     width: 300px;
     border: 5px solid hotpink;
 }
+
 main{
     max-width: 800px;
     margin: 0 auto;
@@ -63,4 +64,5 @@ footer a:hover{
     font-style: italic;
     margin-top: 0;
     text-align: center;
+    font-size: 15px;
 }
